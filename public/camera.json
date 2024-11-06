@@ -1,0 +1,226 @@
+[
+    {
+      "id": 1,
+      "title": "Canon EOS R5",
+      "price": 3899,
+      "rating": 4.8,
+      "image":"https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "A powerful mirrorless camera with a 45MP full-frame sensor and 8K video capabilities.",
+      "specification": {
+        "sensor": "Full-frame CMOS",
+        "megapixels": 45,
+        "videoResolution": "8K",
+        "ISO": "100-51200",
+        "screenSize": "3.2 inches"
+      },
+      "category": "Mirrorless"
+    },
+    {
+      "id": 2,
+      "title": "Nikon Z7 II",
+      "price": 2999,
+      "rating": 4.6,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "High-resolution full-frame mirrorless camera with exceptional image quality.",
+      "specification": {
+        "sensor": "Full-frame CMOS",
+        "megapixels": 45.7,
+        "videoResolution": "4K",
+        "ISO": "64-25600",
+        "screenSize": "3.2 inches"
+      },
+      "category": "Mirrorless"
+    },
+    {
+      "id": 3,
+      "title": "Sony A7 IV",
+      "price": 2499,
+      "rating": 4.7,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Versatile full-frame mirrorless camera with excellent autofocus and 4K video.",
+      "specification": {
+        "sensor": "Full-frame Exmor R CMOS",
+        "megapixels": 33,
+        "videoResolution": "4K",
+        "ISO": "100-51200",
+        "screenSize": "3 inches"
+      },
+      "category": "Mirrorless"
+    },
+    {
+      "id": 4,
+      "title": "Fujifilm X-T4",
+      "price": 1699,
+      "rating": 4.5,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "APS-C mirrorless camera with impressive color reproduction and in-body stabilization.",
+      "specification": {
+        "sensor": "APS-C X-Trans CMOS",
+        "megapixels": 26.1,
+        "videoResolution": "4K",
+        "ISO": "160-12800",
+        "screenSize": "3 inches"
+      },
+      "category": "Mirrorless"
+    },
+    {
+      "id": 5,
+      "title": "Canon EOS 90D",
+      "price": 1199,
+      "rating": 4.4,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Advanced DSLR with fast autofocus and 4K video recording.",
+      "specification": {
+        "sensor": "APS-C CMOS",
+        "megapixels": 32.5,
+        "videoResolution": "4K",
+        "ISO": "100-25600",
+        "screenSize": "3 inches"
+      },
+      "category": "DSLR"
+    },
+    {
+      "id": 6,
+      "title": "Nikon D780",
+      "price": 2299,
+      "rating": 4.6,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Hybrid DSLR with advanced autofocus and excellent low-light performance.",
+      "specification": {
+        "sensor": "Full-frame CMOS",
+        "megapixels": 24.5,
+        "videoResolution": "4K",
+        "ISO": "100-51200",
+        "screenSize": "3.2 inches"
+      },
+      "category": "DSLR"
+    },
+    {
+      "id": 7,
+      "title": "Sony A6600",
+      "price": 1398,
+      "rating": 4.4,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Compact APS-C mirrorless camera with excellent autofocus and battery life.",
+      "specification": {
+        "sensor": "APS-C Exmor CMOS",
+        "megapixels": 24.2,
+        "videoResolution": "4K",
+        "ISO": "100-32000",
+        "screenSize": "3 inches"
+      },
+      "category": "Mirrorless"
+    },
+    {
+      "id": 8,
+      "title": "Panasonic Lumix GH5",
+      "price": 1299,
+      "rating": 4.5,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Micro Four Thirds mirrorless camera ideal for video with 4K recording.",
+      "specification": {
+        "sensor": "Micro Four Thirds",
+        "megapixels": 20.3,
+        "videoResolution": "4K",
+        "ISO": "200-25600",
+        "screenSize": "3.2 inches"
+      },
+      "category": "Mirrorless"
+    },
+    {
+      "id": 9,
+      "title": "Olympus OM-D E-M1 Mark III",
+      "price": 1799,
+      "rating": 4.3,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Durable Micro Four Thirds camera with advanced stabilization and weather-sealing.",
+      "specification": {
+        "sensor": "Micro Four Thirds",
+        "megapixels": 20.4,
+        "videoResolution": "4K",
+        "ISO": "200-25600",
+        "screenSize": "3 inches"
+      },
+      "category": "Mirrorless"
+    },
+    {
+      "id": 10,
+      "title": "Canon EOS M50 Mark II",
+      "price": 599,
+      "rating": 4.2,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Compact mirrorless camera with good image quality and 4K video.",
+      "specification": {
+        "sensor": "APS-C CMOS",
+        "megapixels": 24.1,
+        "videoResolution": "4K",
+        "ISO": "100-25600",
+        "screenSize": "3 inches"
+      },
+      "category": "Mirrorless"
+    },
+    {
+      "id": 11,
+      "title": "Fujifilm X100V",
+      "price": 1399,
+      "rating": 4.7,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Compact camera with APS-C sensor and unique retro design.",
+      "specification": {
+        "sensor": "APS-C X-Trans CMOS",
+        "megapixels": 26.1,
+        "videoResolution": "4K",
+        "ISO": "160-12800",
+        "screenSize": "3 inches"
+      },
+      "category": "Compact"
+    },
+    {
+      "id": 12,
+      "title": "Sony RX100 VII",
+      "price": 1298,
+      "rating": 4.6,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "High-end compact camera with 1-inch sensor and 24-200mm zoom lens.",
+      "specification": {
+        "sensor": "1-inch Exmor RS CMOS",
+        "megapixels": 20.1,
+        "videoResolution": "4K",
+        "ISO": "125-12800",
+        "screenSize": "3 inches"
+      },
+      "category": "Compact"
+    },
+    {
+      "id": 13,
+      "title": "Leica Q2",
+      "price": 4995,
+      "rating": 4.9,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Premium compact camera with full-frame sensor and fixed 28mm lens.",
+      "specification": {
+        "sensor": "Full-frame CMOS",
+        "megapixels": 47.3,
+        "videoResolution": "4K",
+        "ISO": "50-50000",
+        "screenSize": "3 inches"
+      },
+      "category": "Compact"
+    },
+    {
+      "id": 14,
+      "title": "Panasonic Lumix LX100 II",
+      "price": 799,
+      "rating": 4.3,
+      "image": "https://i.ibb.co.com/vknqn3v/photo-1.jpg",
+      "description": "Compact camera with Micro Four Thirds sensor and fast lens.",
+      "specification": {
+        "sensor": "Micro Four Thirds",
+        "megapixels": 17,
+        "videoResolution": "4K",
+        "ISO": "200-25600",
+        "screenSize": "3 inches"
+      },
+      "category": "Compact"
+    }
+]
